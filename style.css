@@ -1,0 +1,10 @@
+/* Added because flashbangable white background hurt my eyeballs*/
+body{
+    background-color:#252525;
+}
+p, h1, h2, li{
+    color:#dbdbdb;
+}
+hr{
+    border: 1.5px solid #dbdbdb;
+}
